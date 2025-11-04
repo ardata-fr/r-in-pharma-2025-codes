@@ -7,6 +7,7 @@ library(here)
 library(knitr)
 
 library(gdtools)
+library(promises)
 library(gfonts)
 library(ggplot2)
 library(systemfonts)
